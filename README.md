@@ -7,3 +7,5 @@ Hack FB termux -> https://www.ac10hacks.com/hack-password-facebook-dengan-termux
 Cara hack fb -> https://www.ac10hacks.com/hack-facebook-tanpa-aplikasi/
 
 Hack Twitter -> https://www.ac10hacks.com/cara-hack-password-twitter/
+
+<a href="https://www.ac10hacks.com/hack-password-facebook-dengan-termux/">hack</a>
