@@ -1,11 +1,9 @@
 # Kumpulan-Script-Termux-untuk-Hack-by-AC10-Hacks
 
-Script Termux Hack FB -> https://www.ac10hacks.com/script-hack-fb-termux/
+Script Termux Hack FB -> <a href="https://www.ac10hacks.com/script-hack-fb-termux/">Script Termux</a>
 
-Hack FB termux -> https://www.ac10hacks.com/hack-password-facebook-dengan-termux/
+Hack FB termux -> <a href="https://www.ac10hacks.com/hack-password-facebook-dengan-termux/">hack fb pakai termux</a>
 
-Cara hack fb -> https://www.ac10hacks.com/hack-facebook-tanpa-aplikasi/
+<a href="https://www.ac10hacks.com/hack-facebook-tanpa-aplikasi/ ">Cara Hack Facebook</a>
 
-Hack Twitter -> https://www.ac10hacks.com/cara-hack-password-twitter/
-
-<a href="https://www.ac10hacks.com/hack-password-facebook-dengan-termux/">hack</a>
+<a href="https://www.ac10hacks.com/cara-hack-password-twitter/">Cara Hack Twitter</a>
